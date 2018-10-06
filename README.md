@@ -9,9 +9,9 @@ A physically tunable Yagi antenna for SDR
 * ~~Converter coax from tuner to yagi~~
 
 ## Progress
-[x] Static mechanical prototype
-[x] Static prototype with connected dipole
-[ ] Dynamic mechanical prototype 
-[ ] Dynamic prototype with connected dipole
+- [x] Static mechanical prototype
+- [x] Static prototype with connected dipole
+- [ ] Dynamic mechanical prototype 
+- [ ] Dynamic prototype with connected dipole
 
 
