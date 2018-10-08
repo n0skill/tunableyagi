@@ -11,7 +11,9 @@ A physically tunable Yagi antenna for SDR
 ## Progress
 - [x] Static mechanical prototype
 - [x] Static prototype with connected dipole
+- [ ] Static prototype with connected dipole and rotating support for tracking
 - [ ] Dynamic mechanical prototype 
 - [ ] Dynamic prototype with connected dipole
+- [ ] Dynamic prototype with connected dipole and rotating support for tracking
 
 
